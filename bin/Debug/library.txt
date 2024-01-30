@@ -1,0 +1,30 @@
+Book Title :The Da Vinci Code
+Book Author : Dan Brown
+Book ISBN: 15355493
+Number of coppies: 5
+Number borrowed :0
+Book Title :Harry Potter and the Prisoner of Azkaban
+Book Author : J. K. Rowling
+Book ISBN: 19475826
+Number of coppies: 10
+Number borrowed :0
+Book Title :Heidi
+Book Author : Johanna Spyri
+Book ISBN: 87531942
+Number of coppies: 8
+Number borrowed :0
+Book Title :The Hobbit
+Book Author : J. R. R. Tolkien
+Book ISBN: 63794581
+Number of coppies: 3
+Number borrowed :0
+Book Title :Nutuk
+Book Author : Mustafa Kemal Ataturk
+Book ISBN: 12541295
+Number of coppies: 20
+Number borrowed :0
+Book Title :Iron Flame
+Book Author : Rebecca Yarros
+Book ISBN: 15966325
+Number of coppies: 10
+Number borrowed :0
