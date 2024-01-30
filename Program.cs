@@ -24,7 +24,7 @@ namespace LibraryApp
            
             while (true)
             {
-                Console.Write("Welcome The Jungle.!");
+                Console.Write("Welcome The Kultur Library.!");
                 Console.WriteLine("Please Select What Do You Want?");
                 Console.WriteLine("1. Add a new book");
                 Console.WriteLine("2. Show all books");
